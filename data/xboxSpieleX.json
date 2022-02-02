@@ -1,0 +1,53 @@
+{
+	"plattform" : "xbox_series_x",
+	"spiele" : [
+		{
+			"id"   : 45453,
+			"name" : "XboxX Spiel 01",
+			"edition" : "Standard Edition",
+			"genre" : "Action",
+			"alterseinstufung" : 18,
+			"hersteller" : "ROCKSTAR GAMES",
+			"erscheinungsdatum" : "18.11.2014",
+			"anzahl_der_player" : 16,
+			"beschreibung" : {
+				"de" : "Die groesste, dynamischste und abwechslungsreichste offene Spielwelt, die je erschaffen wurden.Los Santos: eine weitlaeufige, sonnendurchflutete Metropole voller Selbsthilfe-Gurus, Sternchen und vergessener Promis. Drei spielbare Protagonisten: Franklin, Michael und Trevor. Storytelling und Gameplay auf eine ganz neue Art und Weise. Zugang zu GTA Online, einer dynamischen und persistenten Online-Welt fuer 16 Spieler.",
+				"en" : "The largest, most dynamic and varied open game world ever created. Los Santos: a spacious, sun-drenched metropolis full of self-help gurus, starlets and forgotten celebrities. Three playable protagonists: Franklin, Michael and Trevor. Storytelling and gameplay in a whole new way. Access to GTA Online, a dynamic and persistent online world for 16 players."
+			},
+			"verfuegbar" : true,
+			"preis_mit_mwst" : 39.95
+		}, 
+		{
+			"id"   : 1223123,
+			"name" : "XboxX Spiel 02",
+			"edition" : "Standard Edition",
+			"genre" : "Action-Adventure",
+			"alterseinstufung" : 18,
+			"erscheinungsdatum" : "26.10.2018",
+			"hersteller" : "ROCKSTAR GAMES",
+			"anzahl_der_player" : 1,
+			"beschreibung" : {
+				"de" : "",
+				"en" : ""
+			},
+			"verfuegbar" : true,
+			"preis_mit_mwst" : 19.99
+		}, 
+		{
+			"id"   : 5435434535,
+			"name" : "XboxX Spiel 03",
+			"edition" : "Standard Edition",
+			"genre" : "Action",
+			"alterseinstufung" : 12,
+			"erscheinungsdatum" : "07.09.2018",
+			"hersteller" : "Playstation",
+			"anzahl_der_player" : 1,
+			"beschreibung" : {
+				"de" : "Werden Sie zu Spider-Man. Erleben Sie eine eigenstaendige Geschichte. Stuerzen Sie sich in eine offene Welt.",
+				"en" : "Become Spider-Man. Experience an independent story. Jump into an open world."
+			},
+			"verfuegbar" : true,
+			"preis_mit_mwst" : 18.54
+		}
+	]
+}
